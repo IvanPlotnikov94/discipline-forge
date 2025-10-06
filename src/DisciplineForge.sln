@@ -5,15 +5,15 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{827E0CD3-B72D-47B6-A68D-7590B98EB39B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisciplineForge.Api", "src\DisciplineForge.Api\DisciplineForge.Api.csproj", "{5E781EC3-FBAD-4069-BF84-FF4A6ECA25B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisciplineForge.Api", "DisciplineForge.Api\DisciplineForge.Api.csproj", "{5E781EC3-FBAD-4069-BF84-FF4A6ECA25B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisciplineForge.Core", "src\DisciplineForge.Core\DisciplineForge.Core.csproj", "{99C8D111-9C89-45C8-BF72-161DAE5CA623}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisciplineForge.Core", "DisciplineForge.Core\DisciplineForge.Core.csproj", "{99C8D111-9C89-45C8-BF72-161DAE5CA623}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{EC447DCF-ABFA-6E24-52A5-D7FD48A5C558}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagement", "src\Modules\UserManagement\UserManagement.csproj", "{9B9F8867-197A-44C3-A7C2-27BAE675006D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagement", "Modules\UserManagement\UserManagement.csproj", "{9B9F8867-197A-44C3-A7C2-27BAE675006D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagement", "src\Modules\TaskManagement\TaskManagement.csproj", "{654FAC71-C90D-410F-8781-430B421A99C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagement", "Modules\TaskManagement\TaskManagement.csproj", "{654FAC71-C90D-410F-8781-430B421A99C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
